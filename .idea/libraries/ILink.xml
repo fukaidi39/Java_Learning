@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ILink">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libiries/ILink.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
