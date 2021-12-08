@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cglib-nodep-3.2.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jar-lib/cglib-nodep-3.2.6.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../jar-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../jar-lib" recursive="false" />
+  </library>
+</component>
